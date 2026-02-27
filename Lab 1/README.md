@@ -23,4 +23,4 @@ Fonts are loaded globally in `app/_layout.tsx` using `@expo-google-fonts/poppins
 
 ### Video
 
-<video src="assets/videos/demo.mp4" controls width="360"></video>
+[Demo Video](https://drive.google.com/file/d/1Blz5UX9wIR_huPk-O1plS-93NSyIkky0/view?usp=sharing)
