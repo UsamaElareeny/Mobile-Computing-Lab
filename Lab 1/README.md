@@ -21,6 +21,10 @@ Fonts are loaded globally in `app/_layout.tsx` using `@expo-google-fonts/poppins
 - Completed item background: `#E2E8F0`
 - Completed item text: `#94A3B8`
 
+### Expo Snack
+
+[Expo Snack](https://snack.expo.dev/@uelareeny/lab-1_-to-do-list)
+
 ### Video
 
 [Demo Video](https://drive.google.com/file/d/1Blz5UX9wIR_huPk-O1plS-93NSyIkky0/view?usp=sharing)
